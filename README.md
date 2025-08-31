@@ -58,6 +58,6 @@ Both notebooks require:
 3. Run the notebooks in Jupyter
 4. Follow the examples or modify queries as needed
 
-## Learning Path
+## How to use these files
 
 Start with `agent_with_python.ipynb` to understand the fundamentals, then explore `agent_with_langGraph.ipynb` to see how professional frameworks handle complexity and provide additional capabilities.
